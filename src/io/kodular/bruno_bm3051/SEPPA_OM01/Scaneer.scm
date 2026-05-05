@@ -232,7 +232,7 @@ $JSON
                 "FontSize": "20",
                 "FontTypefaceImport": "Poppins-SemiBold.ttf",
                 "Width": "-2",
-                "Text": "NOME DO MATERIALL",
+                "Text": "NOME DO MATERIAL",
                 "TextAlignment": "1",
                 "TextColor": "&HFFFFFFFF",
                 "Uuid": "-379032500"
