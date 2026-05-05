@@ -1,0 +1,458 @@
+[{
+ "categoryString": "EXTENSION",
+ "dateBuilt": "2021-03-15T16:58:06+0000",
+ "nonVisible": "true",
+ "iconName": "https://firebasestorage.googleapis.com/v0/b/myhtmlpage-fafe8.appspot.com/o/image_16x16.png?alt=media&token=8ef0f45e-f83b-426b-a128-bdb4ed9682cc",
+ "methods": [
+  {
+   "deprecated": "false",
+   "name": "DismissSpotlight",
+   "description": "Dimisses the whole currently shown spotlight.",
+   "params": []
+  },
+  {
+   "deprecated": "false",
+   "name": "DismissTarget",
+   "description": "Dismisses The currently shown target.",
+   "params": []
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowCustomSpotlight",
+   "description": "Shows a spotlight using a custom layout.",
+   "params": [
+    {
+     "name": "component",
+     "type": "any"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radius",
+     "type": "number"
+    },
+    {
+     "name": "spotlightLayout",
+     "type": "component"
+    },
+    {
+     "name": "layoutY",
+     "type": "number"
+    },
+    {
+     "name": "layoutX",
+     "type": "number"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowCustomSpotlightAtPoint",
+   "description": "Shows a spotlight at a specific coordinate using a custom layout.",
+   "params": [
+    {
+     "name": "x",
+     "type": "number"
+    },
+    {
+     "name": "y",
+     "type": "number"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radius",
+     "type": "number"
+    },
+    {
+     "name": "spotlightLayout",
+     "type": "component"
+    },
+    {
+     "name": "layoutY",
+     "type": "number"
+    },
+    {
+     "name": "layoutX",
+     "type": "number"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowMultipleCustomSpotlights",
+   "description": "Shows multiple spotlight using a custom layout.",
+   "params": [
+    {
+     "name": "components",
+     "type": "list"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radii",
+     "type": "list"
+    },
+    {
+     "name": "spotlightLayouts",
+     "type": "list"
+    },
+    {
+     "name": "layoutYPositions",
+     "type": "list"
+    },
+    {
+     "name": "layoutXPositions",
+     "type": "list"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    },
+    {
+     "name": "targetIds",
+     "type": "list"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowMultipleCustomSpotlightsAtPositons",
+   "description": "Shows multiple spotlight using a custom layout.",
+   "params": [
+    {
+     "name": "xPositions",
+     "type": "list"
+    },
+    {
+     "name": "yPositions",
+     "type": "list"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radii",
+     "type": "list"
+    },
+    {
+     "name": "spotlightLayouts",
+     "type": "list"
+    },
+    {
+     "name": "layoutYPositions",
+     "type": "list"
+    },
+    {
+     "name": "layoutXPositions",
+     "type": "list"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    },
+    {
+     "name": "targetIds",
+     "type": "list"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowMultipleSpotlights",
+   "description": "Shows multiple spotlights on the components given.",
+   "params": [
+    {
+     "name": "components",
+     "type": "list"
+    },
+    {
+     "name": "titles",
+     "type": "list"
+    },
+    {
+     "name": "descriptions",
+     "type": "list"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radii",
+     "type": "list"
+    },
+    {
+     "name": "targetIds",
+     "type": "list"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowMultipleSpotlightsAtPositions",
+   "description": "Shows multiple spotlights on a specific coordinates.",
+   "params": [
+    {
+     "name": "xPositions",
+     "type": "list"
+    },
+    {
+     "name": "yPositions",
+     "type": "list"
+    },
+    {
+     "name": "titles",
+     "type": "list"
+    },
+    {
+     "name": "descriptions",
+     "type": "list"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radii",
+     "type": "list"
+    },
+    {
+     "name": "targetIds",
+     "type": "list"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowSpotlight",
+   "description": "Shows a spotlight on the given component.",
+   "params": [
+    {
+     "name": "component",
+     "type": "any"
+    },
+    {
+     "name": "title",
+     "type": "text"
+    },
+    {
+     "name": "description",
+     "type": "text"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radius",
+     "type": "number"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    }
+   ]
+  },
+  {
+   "deprecated": "false",
+   "name": "ShowSpotlightAtPoint",
+   "description": "Shows a spotlight at a specific coordinate.",
+   "params": [
+    {
+     "name": "x",
+     "type": "number"
+    },
+    {
+     "name": "y",
+     "type": "number"
+    },
+    {
+     "name": "title",
+     "type": "text"
+    },
+    {
+     "name": "description",
+     "type": "text"
+    },
+    {
+     "name": "duration",
+     "type": "number"
+    },
+    {
+     "name": "radius",
+     "type": "number"
+    },
+    {
+     "name": "id",
+     "type": "text"
+    }
+   ]
+  }
+ ],
+ "blockProperties": [
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "DescriptionFontSize",
+   "description": "The spotlight's description font size.",
+   "type": "number"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "DescriptionTextColor",
+   "description": "Specifies the soptlight's description text color.",
+   "type": "number"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "DescriptionTypeface",
+   "description": "Specifies a custom font for the spotlight's description.",
+   "type": "text"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "MaskColor",
+   "description": "Specifies the spotlight mask color.",
+   "type": "number"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "TitleFontSize",
+   "description": "The spotlight's title font size.",
+   "type": "number"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "TitleTextColor",
+   "description": "Specifies the soptlight's title text color.",
+   "type": "number"
+  },
+  {
+   "rw": "read-write",
+   "deprecated": "false",
+   "name": "TitleTypeface",
+   "description": "Specifies a custom font for the spotlight's title.",
+   "type": "text"
+  }
+ ],
+ "helpUrl": "https://community.kodular.io/t/custom-spotlight-extension/111632",
+ "type": "io.mohamed.CustomSpotlight.CustomSpotlight",
+ "versionName": "1.1",
+ "androidMinSdk": 7,
+ "version": "1",
+ "external": "true",
+ "showOnPalette": "true",
+ "name": "CustomSpotlight",
+ "helpString": "Component for CustomSpotlight",
+ "properties": [
+  {
+   "defaultValue": "24",
+   "name": "DescriptionFontSize",
+   "editorArgs": [],
+   "editorType": "integer"
+  },
+  {
+   "defaultValue": "&HFFFFFF",
+   "name": "DescriptionTextColor",
+   "editorArgs": [],
+   "editorType": "color"
+  },
+  {
+   "defaultValue": "",
+   "name": "DescriptionTypeface",
+   "editorArgs": [],
+   "editorType": "asset"
+  },
+  {
+   "defaultValue": "&HE6000000",
+   "name": "MaskColor",
+   "editorArgs": [],
+   "editorType": "color"
+  },
+  {
+   "defaultValue": "24",
+   "name": "TitleFontSize",
+   "editorArgs": [],
+   "editorType": "integer"
+  },
+  {
+   "defaultValue": "&HFFFFFF",
+   "name": "TitleTextColor",
+   "editorArgs": [],
+   "editorType": "color"
+  },
+  {
+   "defaultValue": "",
+   "name": "TitleTypeface",
+   "editorArgs": [],
+   "editorType": "asset"
+  }
+ ],
+ "events": [
+  {
+   "deprecated": "false",
+   "name": "Ended",
+   "description": "Called when a spotlight ends.",
+   "params": [{
+    "name": "id",
+    "type": "text"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "Error",
+   "description": "Called when an error occurs, if you don't handle this event, the error would be dispatched to app's UI.",
+   "params": [{
+    "name": "error",
+    "type": "text"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "Started",
+   "description": "Called when a spotlight starts.",
+   "params": [{
+    "name": "id",
+    "type": "text"
+   }]
+  },
+  {
+   "deprecated": "false",
+   "name": "TargetClosed",
+   "description": "Called when a target is closed.",
+   "params": [{
+    "name": "targetId",
+    "type": "text"
+   }]
+  }
+ ]
+}]
