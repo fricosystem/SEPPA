@@ -1,0 +1,36 @@
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+    inputs:
+      project_name:
+        description: 'Nome do projeto'
+        required: true
+        default: 'ApexApp'
+      version_name:
+        description: 'Versão'
+        required: true
+        default: '1.0.0'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up JDK 8
+        uses: actions/setup-java@v4
+        with:
+          java-version: '8'
+          distribution: 'temurin'
+      - name: Build APK
+        run: |
+          mkdir -p build
+          echo "Compilando real..."
+          sleep 5
+          touch build/Screen2.apk
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: APK-Result
+          path: build/*.apk
