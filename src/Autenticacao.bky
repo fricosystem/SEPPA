@@ -1,1 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+{"blocks":{"languageVersion":0,"blocks":[{"type":"kodular_event","id":"6LRotsXpwZ4lL57n7alK","x":13,"y":113,"fields":{"COMPONENT":"Button3","EVENT":"Click"},"inputs":{"DO":{"block":{"type":"kodular_open_screen","id":"6%i|OK`fZqOrdG;PbNZ@","inputs":{"SCREEN":{"block":{"type":"text","id":"H3]9M(x)mgyIB2B9HOH/","fields":{"TEXT":"Screen2"}}}}}}}}]}}
