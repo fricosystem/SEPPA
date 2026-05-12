@@ -1,42 +1,8 @@
 {
-  "YaVersion": "208",
-  "Source": "Form",
-  "Properties": {
-    "$Name": "Screen2",
-    "$Type": "Form",
-    "$Version": "27",
-    "AppName": "Screen2",
-    "Title": "Screen2",
-    "Uuid": "0",
-    "$Components": [
-      {
-        "$Name": "ScannerLayout",
-        "$Type": "VerticalArrangement",
-        "$Version": "1",
-        "Name": "ScannerLayout",
-        "AlignVertical": "Center",
-        "Height": "-2",
-        "AlignHorizontal": "Center",
-        "Width": "-2",
-        "$Components": [
-          {
-            "$Name": "Label1",
-            "$Type": "Label",
-            "$Version": "1",
-            "Name": "ScanStatusLabel",
-            "Text": "Aguardando Leitura...",
-            "FontBold": "True",
-            "FontSize": "18"
-          },
-          {
-            "$Name": "Button1",
-            "$Type": "Button",
-            "$Version": "1",
-            "Text": "Escanear",
-            "Name": "ScanButton"
-          }
-        ]
-      }
-    ]
-  }
+  "name": "SEPPA",
+  "screens": [],
+  "currentScreen": "Autenticacao",
+  "lastModified": "2026-05-12T20:34:30.657Z",
+  "version": "1.0.0",
+  "syncVersion": 2
 }
