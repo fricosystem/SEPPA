@@ -42,8 +42,15 @@ $JSON
         "$Type": "Clock",
         "$Version": "4",
         "TimerAlwaysFires": "False",
-        "TimerInterval": "5000",
-        "Uuid": "1957495746"
+        "TimerInterval": 3000,
+        "Uuid": "1957495746",
+        "Enabled": true,
+        "Timer": "OpenScreen"
+      },
+      {
+        "$Type": "OpenScreen",
+        "$Name": "OpenScreen1",
+        "ScreenName": "Autenticacao"
       }
     ]
   }
