@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"></xml>
+{"blocks":{"languageVersion":0,"blocks":[{"type":"kodular_event","id":"LX;^pjtKyVHWQ9I_]dti","x":113,"y":-187,"fields":{"COMPONENT":"Button3","EVENT":"Click"},"inputs":{"DO":{"block":{"type":"kodular_open_screen","id":"(T|iH,aP:^.k_!wHV{*H","inputs":{"SCREEN":{"block":{"type":"text","id":"8q2YA)XSVq@j`_L*QU%j","fields":{"TEXT":"Screen2"}}}}}}}}]}}
