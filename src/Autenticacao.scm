@@ -103,7 +103,7 @@
                       {
                         "$Type": "OpenScreen",
                         "$Name": "OpenScreen1",
-                        "ScreenName": "Screen2"
+                        "ScreenName": "Screen3"
                       }
                     ]
                   }
