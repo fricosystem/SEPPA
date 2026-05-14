@@ -1,1 +1,1 @@
-{"blocks":{"languageVersion":0,"blocks":[{"type":"kodular_event","id":"6LRotsXpwZ4lL57n7alK","x":13,"y":113,"fields":{"COMPONENT":"Button3","EVENT":"Click"},"inputs":{"DO":{"block":{"type":"kodular_open_screen","id":"6%i|OK`fZqOrdG;PbNZ@","inputs":{"SCREEN":{"block":{"type":"text","id":"H3]9M(x)mgyIB2B9HOH/","fields":{"TEXT":"Screen2"}}}}}}}}]}}
+{"blocks":{"languageVersion":0,"blocks":[{"type":"controls_if","id":"%k2+?1EV8]F/+(M,DYxe","x":363,"y":188}]}}
