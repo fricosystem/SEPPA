@@ -36,7 +36,7 @@
                   {
                     "$Type": "Button",
                     "$Name": "Button1",
-                    "Text": "Login",
+                    "Text": "Loginn",
                     "BackgroundColor": "&HFF4F46E5",
                     "TextColor": "&HFFFFFFFF",
                     "FontSize": 15,
