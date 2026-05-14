@@ -41,7 +41,7 @@
       {
         "$Type": "TextBox",
         "$Name": "TextBox1",
-        "Text": "Ol·aa",
+        "Text": "Ol√°aa",
         "Hint": "Oiiiii"
       }
     ]
