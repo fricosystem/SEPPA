@@ -1,1 +1,1 @@
-{"blocks":{"languageVersion":0,"blocks":[{"type":"kodular_open_screen","id":"#+QN=W9*x45Y5U5/yIN@","x":288,"y":413}]}}
+{"blocks":{"languageVersion":0,"blocks":[{"type":"kodular_event","id":"s]ku)RliuV$UOq^:;o_f","x":138,"y":163,"fields":{"COMPONENT":"Button3","EVENT":"Click"},"inputs":{"DO":{"block":{"type":"kodular_open_screen","id":"#+QN=W9*x45Y5U5/yIN@"}}}}]}}
