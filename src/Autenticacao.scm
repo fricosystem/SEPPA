@@ -98,7 +98,14 @@
                     "FontBold": true,
                     "Shape": 1,
                     "Width": "-2",
-                    "Height": "-1"
+                    "Height": "-1",
+                    "$Components": [
+                      {
+                        "$Type": "OpenScreen",
+                        "$Name": "OpenScreen1",
+                        "ScreenName": "Screen2"
+                      }
+                    ]
                   }
                 ]
               }
