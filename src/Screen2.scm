@@ -43,7 +43,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"Button 1\", \"Mensagem do Button 1\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 1\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -56,7 +56,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"Button 2\", \"Mensagem do Button 2\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 2\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -69,7 +69,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"Button 3\", \"Mensagem do Button 3\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 3\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -82,7 +82,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"Button 4\", \"Mensagem do Button 4\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 4\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -95,7 +95,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"Button 5\", \"Mensagem do Button 5\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 5\", \"OK\")"
               }
             ]
           },
