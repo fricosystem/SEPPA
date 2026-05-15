@@ -42,7 +42,8 @@
                 "BackgroundColor": "&HFF4F46E5",
                 "Shape": 1,
                 "Width": "-1",
-                "Height": "-1"
+                "Height": "-1",
+                "OnClick": "Notifier1.ShowMessageDialog(\"Title\", \"Mensagem do Button1\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -54,7 +55,8 @@
                 "BackgroundColor": "&HFF4F46E5",
                 "Shape": 1,
                 "Width": "-1",
-                "Height": "-1"
+                "Height": "-1",
+                "OnClick": "Notifier1.ShowMessageDialog(\"Title\", \"Mensagem do Button2\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -66,7 +68,8 @@
                 "BackgroundColor": "&HFF4F46E5",
                 "Shape": 1,
                 "Width": "-1",
-                "Height": "-1"
+                "Height": "-1",
+                "OnClick": "Notifier1.ShowMessageDialog(\"Title\", \"Mensagem do Button3\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -78,7 +81,8 @@
                 "BackgroundColor": "&HFF4F46E5",
                 "Shape": 1,
                 "Width": "-1",
-                "Height": "-1"
+                "Height": "-1",
+                "OnClick": "Notifier1.ShowMessageDialog(\"Title\", \"Mensagem do Button4\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -90,7 +94,8 @@
                 "BackgroundColor": "&HFF4F46E5",
                 "Shape": 1,
                 "Width": "-1",
-                "Height": "-1"
+                "Height": "-1",
+                "OnClick": "Notifier1.ShowMessageDialog(\"Title\", \"Mensagem do Button5\", \"OK\")"
               }
             ]
           },
