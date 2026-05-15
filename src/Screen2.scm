@@ -21,7 +21,7 @@
           {
             "$Type": "Label",
             "$Name": "Label1",
-            "Text": "Padaria Delícia",
+            "Text": "Padaria DelÃ­cia",
             "FontSize": 24,
             "FontBold": true,
             "TextColor": "&HFF4F46E5"
@@ -35,7 +35,7 @@
               {
                 "$Type": "Button",
                 "$Name": "Button1",
-                "Text": "Pães",
+                "Text": "PÃ£es",
                 "FontSize": 18,
                 "FontBold": true,
                 "TextColor": "&HFFFFFFFF",
@@ -71,7 +71,7 @@
               {
                 "$Type": "Button",
                 "$Name": "Button4",
-                "Text": "Sanduíches",
+                "Text": "SanduÃ­ches",
                 "FontSize": 18,
                 "FontBold": true,
                 "TextColor": "&HFFFFFFFF",
