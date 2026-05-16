@@ -40,7 +40,7 @@
                   {
                     "$Type": "Label",
                     "$Name": "Subtitulo",
-                    "Text": "Este é um exemplo de tela de apresentação",
+                    "Text": "Este Ã© um exemplo de tela de apresentaÃ§Ã£o",
                     "FontSize": 14,
                     "TextColor": "&HFF6B7280"
                   },
