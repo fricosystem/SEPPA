@@ -1,1 +1,15 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="component_event" id="_tiMt2;`8RxZ[QDy]acB" x="188" y="88"><mutation xmlns="http://www.w3.org/1999/xhtml" component_type="Form" is_generic="false" instance_name="" event_name="Click"></mutation><statement name="DO"><block type="controls_open_screen" id="qM9{6j=W9-fOsTNn+,/x"><value name="SCREEN_NAME"><shadow type="text" id="$T[zHFV2XByi..%HzMdZ"><field name="TEXT">Screen1</field></shadow></value></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml">
+  <block type="component_event" id="_tiMt2;`8RxZ[QDy]acB" x="188" y="88">
+    <mutation xmlns="http://www.w3.org/1999/xhtml" component_type="Form" is_generic="false" instance_name="" event_name="Click">
+      </mutation>
+      <statement name="DO">
+        <block type="controls_open_screen" id="qM9{6j=W9-fOsTNn+,/x">
+          <value name="SCREEN_NAME">
+            <shadow type="text" id="$T[zHFV2XByi..%HzMdZ">
+              <field name="TEXT">Screen2</field>
+              </shadow>
+              </value>
+              </block>
+              </statement>
+              </block>
+              </xml>>
