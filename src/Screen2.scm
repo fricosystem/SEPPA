@@ -21,7 +21,7 @@
           {
             "$Type": "Label",
             "$Name": "Label1",
-            "Text": "Padaria Delícia",
+            "Text": "Padaria DelÃ­cia",
             "FontSize": 24,
             "FontBold": true,
             "TextColor": "&HFF4F46E5"
@@ -35,7 +35,7 @@
               {
                 "$Type": "Button",
                 "$Name": "Button1",
-                "Text": "Pães",
+                "Text": "PÃ£es",
                 "FontSize": 18,
                 "FontBold": true,
                 "TextColor": "&HFFFFFFFF",
@@ -43,7 +43,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"T�tulo\", \"Mensagem do Button 1\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 1\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -56,7 +56,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"T�tulo\", \"Mensagem do Button 2\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 2\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -69,12 +69,12 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"T�tulo\", \"Mensagem do Button 3\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 3\", \"OK\")"
               },
               {
                 "$Type": "Button",
                 "$Name": "Button4",
-                "Text": "Sanduíches",
+                "Text": "SanduÃ­ches",
                 "FontSize": 18,
                 "FontBold": true,
                 "TextColor": "&HFFFFFFFF",
@@ -82,7 +82,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"T�tulo\", \"Mensagem do Button 4\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 4\", \"OK\")"
               },
               {
                 "$Type": "Button",
@@ -95,7 +95,7 @@
                 "Shape": 1,
                 "Width": "-1",
                 "Height": "-1",
-                "OnClick": "Notifier1.ShowMessageDialog(\"T�tulo\", \"Mensagem do Button 5\", \"OK\")"
+                "OnClick": "Notifier1.ShowMessageDialog(\"Título\", \"Mensagem do Button 5\", \"OK\")"
               }
             ]
           },
