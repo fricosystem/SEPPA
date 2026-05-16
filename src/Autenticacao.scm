@@ -106,8 +106,89 @@
                         "ScreenName": "Screen3"
                       }
                     ]
+                  },
+                  {
+                    "$Type": "Label",
+                    "$Name": "Label1",
+                    "Text": "Nome:",
+                    "FontSize": 18,
+                    "FontBold": true,
+                    "TextColor": "&HFF121212"
+                  },
+                  {
+                    "$Type": "TextBox",
+                    "$Name": "TextBox3",
+                    "Hint": "Digite seu nome",
+                    "BackgroundColor": "&HFFF0F0F0",
+                    "Width": "-2",
+                    "Height": "-1"
+                  },
+                  {
+                    "$Type": "Space",
+                    "$Name": "Space1",
+                    "Height": 10
+                  },
+                  {
+                    "$Type": "Label",
+                    "$Name": "Label2",
+                    "Text": "E-mail:",
+                    "FontSize": 18,
+                    "FontBold": true,
+                    "TextColor": "&HFF121212"
+                  },
+                  {
+                    "$Type": "TextBox",
+                    "$Name": "TextBox4",
+                    "Hint": "Digite seu e-mail",
+                    "BackgroundColor": "&HFFF0F0F0",
+                    "Width": "-2",
+                    "Height": "-1"
+                  },
+                  {
+                    "$Type": "Space",
+                    "$Name": "Space2",
+                    "Height": 10
+                  },
+                  {
+                    "$Type": "Label",
+                    "$Name": "Label3",
+                    "Text": "Senha:",
+                    "FontSize": 18,
+                    "FontBold": true,
+                    "TextColor": "&HFF121212"
+                  },
+                  {
+                    "$Type": "PasswordTextBox",
+                    "$Name": "PasswordTextBox1",
+                    "Hint": "Digite sua senha",
+                    "BackgroundColor": "&HFFF0F0F0",
+                    "Width": "-2",
+                    "Height": "-1"
+                  },
+                  {
+                    "$Type": "Space",
+                    "$Name": "Space3",
+                    "Height": 20
+                  },
+                  {
+                    "$Type": "Button",
+                    "$Name": "Button4",
+                    "Text": "Enviar",
+                    "BackgroundColor": "&HFF4F46E5",
+                    "TextColor": "&HFFFFFFFF",
+                    "Width": "-2",
+                    "Height": "-1",
+                    "FontSize": 18,
+                    "FontBold": true
                   }
                 ]
+              },
+              {
+                "$Type": "VerticalArrangement",
+                "$Name": "VerticalArrangement3",
+                "Width": "-2",
+                "Height": "-1",
+                "Padding": 20
               }
             ]
           }
