@@ -4,7 +4,7 @@
     "$Name": "Formulario",
     "Title": "Formulario",
     "BackgroundColor": "&HFFFFFFFF",
-    "AlignHorizontal": "1",
+    "AlignHorizontal": "2",
     "AlignVertical": "1",
     "$Components": [
       {
