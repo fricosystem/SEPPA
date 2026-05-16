@@ -1,1 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="component_event" x="96" y="246"><mutation component_type="Form" instance_name="Button1" event_name="Click"></mutation><field name="COMPONENT_SELECTOR">Button1</field></block></xml>
