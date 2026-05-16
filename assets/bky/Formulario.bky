@@ -1,9 +1,9 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="component_event" id="FA&CgZD%w7G9uQs$^n!M" x="360" y="200">
+  <block type="component_event" id="%U8mOAyuZL1fMU6%XsEW" x="360" y="200">
     <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
     <field name="COMPONENT_SELECTOR">Button1</field>
     <statement name="DO">
-      <block type="controls_openAnotherScreen" id="!ufvH6BR6sG3J16oj9*5">
+      <block type="controls_openAnotherScreen" id="XLja$1Os6Pc$31l*jtFS">
       </block>
     </statement>
   </block>
