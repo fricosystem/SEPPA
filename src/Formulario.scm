@@ -10,7 +10,8 @@
       {
         "$Type": "Button",
         "$Name": "Button1",
-        "Text": "Abrir Formulário"
+        "Text": "Abrir Formulário",
+        "BackgroundColor": "&HFFFFFFFF"
       }
     ]
   }
