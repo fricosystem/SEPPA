@@ -1,16 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="component_event" id="_wEI/_Y$1@@8PDG,c~(?" x="-5050" y="-730">
-    <mutation component_type="Clock" is_generic="false" instance_name="Temporizador1" event_name="Timer"></mutation>
-    <field name="COMPONENT_SELECTOR">Temporizador1</field>
-    <statement name="DO">
-      <block type="controls_openAnotherScreen" id="#Sto.:|][+gN^Obl/Tnh">
-        <value name="SCREEN">
-          <block type="helpers_screen_names" id="f6iXrX2pE4NB,{TH1_b4">
-            <field name="SCREEN">Scaneer</field>
-          </block>
-        </value>
-      </block>
-    </statement>
-  </block>
-  <yacodeblocks ya-version="245" language-version="34"></yacodeblocks>
-</xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="component_event" x="100" y="100"><mutation component_type="Form" instance_name="Temporizador1" event_name="Timer"></mutation><field name="COMPONENT_SELECTOR">Temporizador1</field><statement name="DO"><block type="controls_openAnotherScreen"><value name="SCREEN"><block type="text"><field name="TEXT">Scaneer</field></block></value></block></statement></block></xml>
