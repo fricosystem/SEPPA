@@ -20,8 +20,8 @@
     <field name="COMPONENT_SELECTOR">botao_buscar</field>
     <statement name="DO">
       <block type="component_method">
-        <mutation component_type="Form" method_name="DoScan" instance_name="CódigoDeBarras1"></mutation>
-        <field name="COMPONENT_SELECTOR">CódigoDeBarras1</field>
+        <mutation component_type="Form" method_name="DoScan" instance_name="CÃ³digoDeBarras1"></mutation>
+        <field name="COMPONENT_SELECTOR">CÃ³digoDeBarras1</field>
         <next>
           <block type="component_method">
             <mutation component_type="Form" method_name="ShowCustomDialog" instance_name="Notificador1"></mutation>
