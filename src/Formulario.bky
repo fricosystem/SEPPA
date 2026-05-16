@@ -1,1 +1,10 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="component_event" id="_tiMt2;`8RxZ[QDy]acB" x="188" y="88"><mutation xmlns="http://www.w3.org/1999/xhtml" component_type="Form" is_generic="false" instance_name="" event_name="Click"></mutation><statement name="DO"><block type="controls_open_screen" id="qM9{6j=W9-fOsTNn+,/x"><value name="SCREEN_NAME"><shadow type="text" id="$T[zHFV2XByi..%HzMdZ"><field name="TEXT">Screen2</field></shadow></value></block></statement></block><block type="component_event" id="P-8s=H_8:K,oDUd+.rL7" x="213" y="188"><mutation xmlns="http://www.w3.org/1999/xhtml" component_type="Form" is_generic="false" instance_name="" event_name="Click"></mutation></block></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="FA&CgZD%w7G9uQs$^n!M" x="360" y="200">
+    <mutation component_type="Button" is_generic="false" instance_name="Button1" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Button1</field>
+    <statement name="DO">
+      <block type="controls_openAnotherScreen" id="!ufvH6BR6sG3J16oj9*5">
+      </block>
+    </statement>
+  </block>
+</xml>
