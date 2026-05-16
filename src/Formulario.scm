@@ -11,7 +11,8 @@
         "$Type": "Button",
         "$Name": "Button1",
         "Text": "Olá",
-        "BackgroundColor": "&HFF000000"
+        "BackgroundColor": "&HFF000000",
+        "TextColor": "&HFFFFFFFF"
       }
     ]
   }
