@@ -4,7 +4,7 @@
       "name": "TelaPrincipal",
       "components": [
         {
-          "name": "Bot„oBuscar",
+          "name": "Bot√£oBuscar",
           "type": "Button",
           "events": [
             {
