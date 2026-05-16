@@ -1,9 +1,9 @@
 {
   "Properties": {
     "$Type": "Form",
-    "$Name": "Apresentacao",
-    "Title": "Apresentacao",
-    "BackgroundColor": "&HFFF8F9FA",
+    "$Name": "BemVindo",
+    "Title": "Bem Vindo",
+    "BackgroundColor": "&HFFFFF2CC",
     "$Components": [
       {
         "$Type": "VerticalArrangement",
@@ -12,6 +12,16 @@
         "Height": -2,
         "AlignHorizontal": 3,
         "AlignVertical": 2
+      },
+      {
+        "$Type": "Label",
+        "$Name": "Label1",
+        "Text": "Bem Vindo!",
+        "FontSize": 30,
+        "FontBold": true,
+        "TextColor": "&HFF000000",
+        "Width": -2,
+        "Height": -1
       },
       {
         "$Type": "CardView",
