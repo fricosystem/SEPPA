@@ -152,6 +152,27 @@
                   {
                     "$Type": "Label",
                     "$Name": "Label3",
+                    "Text": "Telefone:",
+                    "FontSize": 18,
+                    "FontBold": true,
+                    "TextColor": "&HFF121212"
+                  },
+                  {
+                    "$Type": "TextBox",
+                    "$Name": "TextBox5",
+                    "Hint": "Digite seu telefone",
+                    "BackgroundColor": "&HFFF0F0F0",
+                    "Width": "-2",
+                    "Height": "-1"
+                  },
+                  {
+                    "$Type": "Space",
+                    "$Name": "Space3",
+                    "Height": 10
+                  },
+                  {
+                    "$Type": "Label",
+                    "$Name": "Label4",
                     "Text": "Senha:",
                     "FontSize": 18,
                     "FontBold": true,
@@ -167,7 +188,7 @@
                   },
                   {
                     "$Type": "Space",
-                    "$Name": "Space3",
+                    "$Name": "Space4",
                     "Height": 20
                   },
                   {
@@ -189,8 +210,24 @@
                 "Width": "-2",
                 "Height": "-1",
                 "Padding": 20
+              },
+              {
+                "$Type": "VerticalArrangement",
+                "$Name": "VerticalArrangement4",
+                "Width": "-2",
+                "Height": "-1",
+                "Padding": 20
               }
             ]
+          },
+          {
+            "$Type": "CardView",
+            "$Name": "CardView2",
+            "CornerRadius": 20,
+            "Elevation": 10,
+            "BackgroundColor": "&HFFFFFFFF",
+            "Width": "-2",
+            "Height": "-2"
           }
         ]
       }
