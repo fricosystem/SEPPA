@@ -1,14 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="component_event" x="350" y="100">
-    <mutation component_type="Form" instance_name="Button1" event_name="Click">
-    </mutation>
-    <field name="COMPONENT_SELECTOR">Button1</field>
-    <statement name="DO">
-      <block type="component_method">
-        <mutation component_type="Screen" method_name="OpenScreen" instance_name="Autenticacao">
-        </mutation>
-        <field name="COMPONENT_SELECTOR">Autenticacao</field>
-      </block>
-    </statement>
-  </block>
-</xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><block type="component_event" x="360" y="200"><mutation component_type="Form" instance_name="Button1" event_name="Click"></mutation><field name="COMPONENT_SELECTOR">Button1</field><statement name="DO"><block type="component_method"><mutation component_type="Screen" method_name="OpenScreen" instance_name="Autenticacao"></mutation><field name="COMPONENT_SELECTOR">Autenticacao</field></block></statement></block></xml>
