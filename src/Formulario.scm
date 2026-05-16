@@ -12,7 +12,8 @@
         "$Name": "Button1",
         "Text": "Abrir Formulário",
         "BackgroundColor": "&HFFFFFFFF",
-        "TextColor": "&HFF000000"
+        "TextColor": "&HFF000000",
+        "Shape": "1"
       }
     ]
   }
