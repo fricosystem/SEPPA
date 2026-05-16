@@ -6,6 +6,11 @@
     "BackgroundColor": "&HFFFFFFFF",
     "AlignHorizontal": "1",
     "AlignVertical": "1",
-    "$Components": []
+    "$Components": [
+      {
+        "$Type": "Button",
+        "$Name": "Button1"
+      }
+    ]
   }
 }
