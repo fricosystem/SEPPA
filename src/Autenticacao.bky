@@ -1,0 +1,46 @@
+<blocks xmlns="http://www.google.com/blocks/">
+  <!-- Bloco para Button1 (Login) -->
+  <block type="when_button_click" x="10" y="10">
+    <field name="component">Button1</field>
+    <statement name="do">
+      <block type="toast_show_short">
+        <field name="component">Notify</field>
+        <value name="message">
+          <block type="text">
+            <field name="TEXT">Login clicado!</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+
+  <!-- Bloco para Button2 (Cadastro) -->
+  <block type="when_button_click" x="10" y="120">
+    <field name="component">Button2</field>
+    <statement name="do">
+      <block type="toast_show_short">
+        <field name="component">Notify</field>
+        <value name="message">
+          <block type="text">
+            <field name="TEXT">Cadastro clicado!</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+
+  <!-- Bloco para Button3 (Entrar) -->
+  <block type="when_button_click" x="10" y="230">
+    <field name="component">Button3</field>
+    <statement name="do">
+      <block type="toast_show_short">
+        <field name="component">Notify</field>
+        <value name="message">
+          <block type="text">
+            <field name="TEXT">Entrar clicado!</field>
+          </block>
+        </value>
+      </block>
+    </statement>
+  </block>
+</blocks>
