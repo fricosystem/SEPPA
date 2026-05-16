@@ -10,7 +10,7 @@
       {
         "$Type": "Button",
         "$Name": "Button1",
-        "Text": "Ol·",
+        "Text": "Ol√°",
         "BackgroundColor": "&HFF000000",
         "TextColor": "&HFFFFFFFF"
       }
