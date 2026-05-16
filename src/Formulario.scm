@@ -3,7 +3,7 @@
     "$Type": "Form",
     "$Name": "Formulario",
     "Title": "Formulario",
-    "BackgroundColor": "&HFFFFFFFF",
+    "BackgroundColor": "&HFF000000",
     "AlignHorizontal": "2",
     "AlignVertical": "1",
     "$Components": [
