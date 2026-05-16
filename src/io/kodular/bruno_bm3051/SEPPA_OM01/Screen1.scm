@@ -24,7 +24,7 @@ $JSON
     "ShowListsAsJson": "True",
     "ShowOptionsMenu": "False",
     "ShowStatusBar": "False",
-    "Title": "Screen1",
+    "Title": "Intro",
     "TitleVisible": "False",
     "Uuid": "0",
     "$Components": [
