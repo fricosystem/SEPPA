@@ -177,7 +177,8 @@ $JSON
                 "Height": "-2",
                 "Width": "-2",
                 "Uuid": "-755945274",
-                "Visible": "False"
+                "Visible": "False",
+                "HTMLFormat": "False"
               },
               {
                 "$Name": "Lista_de_Produtos_Planilha",
