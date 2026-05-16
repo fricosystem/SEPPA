@@ -9,7 +9,8 @@
     "$Components": [
       {
         "$Type": "Button",
-        "$Name": "Button1"
+        "$Name": "Button1",
+        "Text": "Abrir Formulário"
       }
     ]
   }
